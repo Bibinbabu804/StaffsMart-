@@ -6,6 +6,7 @@ import About from '../Components/About'
 import Slider from '../Components/Slider'
 import Stats from '../Components/Stats'
 import { Company } from '../Components/Company'
+import Design from '../Components/Design'
 
 
 
@@ -14,6 +15,7 @@ function Home() {
     <div>
         <Banner/>
         <About/>
+        <Design/>
         <Slider/>
         <Services/>
         <Company/>
