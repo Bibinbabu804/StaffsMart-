@@ -6,7 +6,8 @@ import About from '../Components/About'
 import Slider from '../Components/Slider'
 import Stats from '../Components/Stats'
 import { Company } from '../Components/Company'
-import Design from '../Components/Design'
+
+import Design2 from '../Components/Design2'
 
 
 
@@ -15,9 +16,9 @@ function Home() {
     <div>
         <Banner/>
         <About/>
-        <Design/>
+       <Design2/>
         <Slider/>
-        <Services/>
+        
         <Company/>
         <Stats/>
         <Details/>
